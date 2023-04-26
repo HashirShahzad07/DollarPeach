@@ -44,7 +44,7 @@ body {
     line-height: 1.6;
     font-weight: 500;
     overflow-x: hidden;
-    background-color: #db9634;
+    background-color: #ff7353;
 }
 
 img {
@@ -3628,7 +3628,7 @@ div.latest-item .hover-shape-bg {
 .join_comunity_btns button.wishlist_btn {
     height: 60px;
     width: 200px;
-    background: #bd4024;
+    background: #317d01;
     border: none;
     text-transform: uppercase;
     box-sizing: border-box;
@@ -4149,7 +4149,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .bithu_v2_footer_bg {
-    background: url(../images/nft/v2_footer_bg.png);
+    background: url(../images/bg/mint-1_bg.png);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -4588,7 +4588,7 @@ div.latest-item .hover-shape-bg {
 16. Preloader CSS
 ---------------------------------------*/
 section.loader_first {
-    background: #db9634;
+    background: #ff886c;
     position: absolute;
     width: 100%;
     height: 100%;
